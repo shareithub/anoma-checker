@@ -7,4 +7,4 @@ Feature :
 - Anoma Shrimpers
 - Kaito Stakers
 
-#Dont forget Stars & Join telegram channel : https://t.me/SHAREITHUB_COM
+# Dont forget Stars & Join telegram channel : https://t.me/SHAREITHUB_COM
